@@ -1,4 +1,4 @@
-# Laravel 8 使用更 Laravel 風格的方式使用 JOIN（連接）
+# Laravel 9 使用更 Laravel 風格的方式使用 JOIN（連接）
 
 引入 kirschbaum-development 的 eloquent-power-joins 套件來擴增使用更 Laravel 風格的方式使用 JOIN，利用不同資料表之間欄位的關連性來結合多資料表之檢索。
 
@@ -26,5 +26,5 @@ $ php artisan migrate --seed
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/UqUtxoD.png)
+![](https://i.imgur.com/LbFb61C.png)
 > 結合多個資料表而組成一抽象的暫時性資料表以供資料查詢，在原各資料表中之紀錄及結構皆不會因此連接查詢而改變
