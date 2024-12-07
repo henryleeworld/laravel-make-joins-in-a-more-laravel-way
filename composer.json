@@ -7,7 +7,7 @@
     "require": {
         "php": "^8.2",
         "kirschbaum-development/eloquent-power-joins": "^3.5",
-        "laravel/framework": "^11.15",
+        "laravel/framework": "^11.16",
         "laravel/tinker": "^2.9"
     },
     "require-dev": {
