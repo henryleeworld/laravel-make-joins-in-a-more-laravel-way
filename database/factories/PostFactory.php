@@ -27,7 +27,7 @@ class PostFactory extends Factory
     {
         return [
             'user_id' => User::factory(),
-            'title' => $this->faker->words(3, true),
+            'title' => fake()->words(3, true),
         ];
     }
 }
